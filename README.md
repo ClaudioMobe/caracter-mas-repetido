@@ -1,5 +1,5 @@
-# caracter-mas-repetido
-Ejercicio de JavaScript para encontrar el caracter más repetido en un string.
+# Caracter más repetido
+Ejercicio de JavaScript para encontrar el caracter más repetido en un string utilizando dos arrays.
 
 
 	const s = 'aLDFLAJDPjjeosne53o430';
